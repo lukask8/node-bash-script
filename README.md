@@ -1,13 +1,11 @@
 # node-bash-script
-No more Perl, Python, ... just JS
-On linux you can execute any NodeJS script easily with:
+No more Perl, Python, ... just JS.
 
+On linux you can execute any NodeJS script easily with:
 ```
  $ node app.js.sh
 ```
-
 or better with:
-
 ```
  $ ./app.js.sh
 ```
