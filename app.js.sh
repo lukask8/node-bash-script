@@ -4,8 +4,8 @@
  * On linux just add an execute permission to this file with chmod +x app.js.sh.
  * You can now run this node script as you need!
  * 
- * $ node app.js.sh
- * $ ./app.js.sh
+ * $ node app.sh
+ * $ ./app.sh
  * ****************************************************************************/
  "use strict"
  
